@@ -125,4 +125,4 @@ mojegodine = mojegodine + 1;
 // Povećava promenljivu "mojegodine" za 1, ali ta varijabla nije deklarisana (izaziva grešku)
 
 mojegodine++;
-// Pokušava da uveća "mojegodine", ali varijabla ne postoji, pa će doći do greške
+// Pokušava da uveća "mojegodine", ali pošto varijabla ne postoji, pa će doći do greške
