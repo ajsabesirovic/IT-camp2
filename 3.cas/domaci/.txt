@@ -1,0 +1,1 @@
+Uneti dva broja a i b preko prompt-a, zatim ih uporediti i ispisati koji broj je veci.
