@@ -1,0 +1,29 @@
+1.
+    Napraviti popust od 10% na unetu cenu ako je veća od 5000. 
+
+2. 
+    Neka korisnik unese broj meseca (1 - 12) i ispisati koji je mesec u pitanju i 
+    koliko ima dana.
+
+3.
+    Korisnik unosi visinu osobe u centimetrima. Ispisati kategoriju visine:
+    Manje od 150 cm: "Niska osoba"
+    150 - 179 cm: "Srednje visoka osoba"
+    180 cm i više: "Visoka osoba"
+
+4.
+    Korisnik unosi broj bodova (0 - 100). Ispisati ocenu na osnovu sledećih kriterijuma:
+    90 i više: Ocena 5
+    80 - 89: Ocena 4
+    70 - 79: Ocena 3
+    60 - 69: Ocena 2
+    Manje od 60: Ocena 1
+
+5.
+    Korisnik unosi trocifren broj. Ispisati poruku:
+
+    Ako je broj pozitivan: "Pozitivan trocifren broj"
+    Ako je broj negativan: "Negativan trocifren broj"
+    Ako nije trocifren: "Broj nije trocifren"
+    
+    (Napomena: Broj je trocifren ako je u opsegu od 100 do 999)
