@@ -1,0 +1,20 @@
+1. 
+    Proveriti da li je broj deljiv i sa 3 i sa 5. Ako jeste, ispisati poruku da je broj deljiv sa 3 i 5.  
+    Ako nije, proveriti da li je deljiv samo sa 3 ili samo sa 5 i ispisati odgovarajuću poruku.  
+    Ako nije deljiv ni sa jednim od ta dva broja, ispisati da nije deljiv ni sa 3 ni sa 5.  
+
+2. 
+    Na osnovu unetog broja odrediti da li predstavlja radni dan ili vikend i ispisati odgovarajuću poruku.
+
+3.  
+    Na osnovu unete godine rođenja, izračunati starost osobe i odrediti da li ima pravo da glasa.
+    Ako osoba ima manje od 18 godina, ispisati "Nemate pravo glasa".
+    Ako ima između 18 i 65 godina, ispisati "Imate pravo glasa".
+    Ako ima 65 ili više, ispisati "Imate pravo glasa i možete ostvariti olakšice za starije građane".
+
+4. 
+    Proveriti da li je trougao pravougli na osnovu unetih dužina njegovih stranica.
+    Ako važi Pitagorina teorema, ispisati "Trougao je pravougli".
+    Ako ne važi, ispisati "Trougao nije pravougli".
+    Ako unete stranice ne mogu da čine trougao (ne zadovoljavaju trougaono pravilo), ispisati "Unete vrednosti ne mogu formirati trougao".
+    (Istrazite Pitagorinu teoremu i kada staranice mogu da čine trougao)
