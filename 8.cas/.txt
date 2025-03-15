@@ -1,0 +1,31 @@
+1. Ispis brojeva od 1 do 10
+Napiši program koji ispisuje brojeve od 1 do 10 u konzoli.
+
+2. Suma brojeva od 1 do 100
+Izračunaj zbir brojeva od 1 do 100 i prikaži ga u konzoli.
+
+3. Ispis parnih brojeva do 20
+Pronađi i ispiši sve parne brojeve od 1 do 20.
+
+4. Obrnuti redosled
+Ispiši brojeve od 10 do 1 unazad.
+
+5. Tablica množenja
+Za dati broj (npr. 5), ispiši njegovu tablicu množenja do 10.
+5 * 1 = 5;
+5 * 2 = 10;
+
+-- DOMACI --
+
+6. Zbir elemenata 
+Unositi brojeve 5 puta, zatim izračunati njihov zbir koristeći for petlju.
+
+7. Najveći broj
+Pronađi najveći i najmanji broj od 5 unetih brojeva.
+
+8. Proveri da li je broj prost
+Unesi broj i pomoću for petlje proveri da li je prost (prost broj je deljiv samo sa 1 i samim sobom).
+
+9. Faktorijel broja
+Izračunaj faktorijel broja n (npr. 5! = 5 × 4 × 3 × 2 × 1 = 120).
+

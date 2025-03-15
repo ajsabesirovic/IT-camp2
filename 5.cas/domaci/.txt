@@ -16,5 +16,6 @@
     Proveriti da li je trougao pravougli na osnovu unetih dužina njegovih stranica.
     Ako važi Pitagorina teorema, ispisati "Trougao je pravougli".
     Ako ne važi, ispisati "Trougao nije pravougli".
-    Ako unete stranice ne mogu da čine trougao (ne zadovoljavaju trougaono pravilo), ispisati "Unete vrednosti ne mogu formirati trougao".
-    (Istrazite Pitagorinu teoremu i kada staranice mogu da čine trougao)
+    Ako unete stranice ne mogu da čine trougao (ne zadovoljavaju trougaono pravilo), ispisati 
+    "Unete vrednosti ne mogu formirati trougao".
+    (Istrazite Pitagorinu teoremu i kada stranice mogu da čine trougao)
